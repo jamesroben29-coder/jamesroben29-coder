@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm James Roben 👋
 
-<!--
-**jamesroben29-coder/jamesroben29-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React Developer
 
-Here are some ideas to get you started:
+I'm a frontend developer in training focused on building responsive, modern, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into clean and functional interfaces using React and modern frontend technologies.
+
+---
+
+## 🚀 About Me
+
+- 💻 Focused on Frontend Development
+- ⚛️ Currently learning React.js
+- 🌱 Exploring Next.js and modern JavaScript
+- 🛠️ Building projects to improve my frontend skills
+- 🎯 Preparing for remote and freelance opportunities
+- 📚 Continuously learning and improving
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vite
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+## 📌 Featured Projects
+
+### 📝 React Todo App
+
+A responsive Todo application built with React featuring:
+
+- Add, edit, and delete tasks
+- Complete tasks
+- Search and filter tasks
+- Task statistics
+- Form validation
+- Responsive design
+
+🔗 [View Project](https://nna-react-todo-app.vercel.app)
+
+🔗 [GitHub Repository](https://github.com/jamesroben29-coder/react-todo-app)
+
+---
+
+## 📚 Currently Learning
+
+- React.js
+- Advanced React concepts
+- Next.js
+- Frontend development best practices
+- Building production-ready applications
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@jamesroben29-coder](https://github.com/jamesroben29-coder)
+
+---
+
+### ⚡ Keep Learning. Keep Building. Keep Improving.
+
+Thanks for visiting my profile! 👋
