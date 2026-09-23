@@ -57,6 +57,26 @@ A responsive Todo application built with React featuring:
 
 ---
 
+### 🛍️ NovaTech Gadget Store
+
+A modern and responsive e-commerce web application built with React featuring:
+
+- Product browsing and product details
+- Search, category filtering, and sorting
+- Shopping cart functionality
+- Checkout flow
+- Authentication UI
+- Dark / light theme support
+- Responsive design
+- Modern UI/UX
+- Vercel deployment
+
+🔗 [View Project](https://nova-tech-gadget-store.vercel.app/)
+
+🔗 [GitHub Repository](https://github.com/jamesroben29-coder/nova-tech-gadget-store)
+
+
+
 ## 📚 Currently Learning
 
 - React.js
