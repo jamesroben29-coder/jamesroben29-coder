@@ -1,4 +1,4 @@
-# Hi, I'm Nyi Nyi Aung 👋
+<img width="1895" height="896" alt="Screenshot 2026-10-01 210758" src="https://github.com/user-attachments/assets/5236d6d2-5887-4174-b08a-03b56b65b008" /># Hi, I'm Nyi Nyi Aung 👋
 
 ### Junior Frontend Developer | React Developer
 
@@ -67,6 +67,27 @@ A responsive React e-commerce application focused on real-world frontend develop
 - Responsive UI
 - React Router
 - Vercel deployment
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img width="1892" height="963" alt="Screenshot 2026-10-01 210619" src="https://github.com/user-attachments/assets/fd9d52ad-2a9c-4be1-b868-0a21825b95ee" />
+
+### 🛍️ Products
+<img width="1900" height="965" alt="Screenshot 2026-10-01 210708" src="https://github.com/user-attachments/assets/c5c4dbd4-518e-4a68-9aa7-4c5a3bf39770" />
+
+
+### 🛒 Shopping Cart
+<img width="1895" height="896" alt="Screenshot 2026-10-01 210758" src="https://github.com/user-attachments/assets/da79f0a8-9db3-4564-bbde-3eb3c5c0a4ef" />
+
+
+### 💳 Checkout
+<img width="1896" height="887" alt="Screenshot 2026-10-01 210915" src="https://github.com/user-attachments/assets/173a4f02-33c8-4393-a6bc-d587e7362020" />
+
+
+### 📦 Order History
+<img width="1900" height="896" alt="Screenshot 2026-10-01 210941" src="https://github.com/user-attachments/assets/1ac0405b-1160-49ca-9eab-ae42727ef0ae" />
+
 
 🔗 [Live Demo](https://thwe-store.vercel.app/)  
 💻 [GitHub Repository](https://github.com/jamesroben29-coder/thwe-store)
