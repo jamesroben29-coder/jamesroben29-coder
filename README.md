@@ -35,7 +35,7 @@ I enjoy turning ideas into clean, functional interfaces and continuously improvi
 - Tailwind CSS
 - Responsive Web Design
 - Figma
-- React Icons
+- Lucide React
 
 ### Tools & Deployment
 - Git
@@ -88,6 +88,9 @@ A responsive React e-commerce application focused on real-world frontend develop
 ### 📦 Order History
 <img width="1900" height="896" alt="Screenshot 2026-10-01 210941" src="https://github.com/user-attachments/assets/1ac0405b-1160-49ca-9eab-ae42727ef0ae" />
 
+### ⚙️ Account Settings
+<img width="1901" height="897" alt="Screenshot 2026-10-01 211042" src="https://github.com/user-attachments/assets/a0aaa714-0389-428c-b7d1-7d50650ae940" />
+
 
 🔗 [Live Demo](https://thwe-store.vercel.app/)  
 💻 [GitHub Repository](https://github.com/jamesroben29-coder/thwe-store)
@@ -114,7 +117,7 @@ A modern responsive gadget store built with React, featuring a clean UI and Ligh
 - Vercel deployment
 
 🔗 [Live Demo](https://nova-tech-gadget-store.vercel.app/)  
-💻 [GitHub Profile](https://github.com/jamesroben29-coder)
+💻 [GitHub Repository](https://github.com/jamesroben29-coder/nova-tech-gadget-store)
 
 ---
 
@@ -123,7 +126,7 @@ A modern responsive gadget store built with React, featuring a clean UI and Ligh
 A React-based task management application built to practice component-based development and state management.
 
 🔗 [Live Demo](https://nna-react-todo-app.vercel.app/)  
-💻 [GitHub Profile](https://github.com/jamesroben29-coder)
+💻 [GitHub Repository](https://github.com/jamesroben29-coder/react-todo-app)
 
 ---
 
