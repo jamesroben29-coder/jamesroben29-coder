@@ -1,4 +1,4 @@
-<img width="1895" height="896" alt="Screenshot 2026-10-01 210758" src="https://github.com/user-attachments/assets/5236d6d2-5887-4174-b08a-03b56b65b008" /># Hi, I'm Nyi Nyi Aung 👋
+# Hi, I'm Nyi Nyi Aung 👋
 
 ### Junior Frontend Developer | React Developer
 
